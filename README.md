@@ -1,4 +1,4 @@
-# Contenido - Pŕacticas Python
+# Contenido - Prácticas Python
  1. Fundamentos de programación
     * Introducción informal
       * [Números](https://github.com/gapc87/python/blob/master/Fase%201%20-%20Fundamentos%20de%20programacion/Tema%2001%20-%20Introduccion%20informal/Apuntes/Leccion%201%20(Apuntes)%20-%20Numeros.ipynb)
